@@ -1,2 +1,3 @@
-# ola mundo
-Primeiro repositório versionado, a partir de curso de git e githb do Gustavo Guanabara
+# Olá, mundo!
+
+Esse foi um repositório teste criado durando o curso de git e github do Gustavo Guanabara!
